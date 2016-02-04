@@ -54,7 +54,7 @@ install()
     tar zxvf phoSimMLT_SEDs.tar.gz
     rm phoSimMLT_SEDs.tar.gz
 
-    cd $PREFIX/wDs
+    cd $PREFIX/starSED/wDs
     tar zxvf white_dwarf_SEDs.tar.gz
     rm white_dwarf_SEDs.tar.gz
 }
