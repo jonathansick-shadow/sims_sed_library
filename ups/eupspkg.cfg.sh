@@ -43,7 +43,7 @@ install()
     rm kurucz_SEDs.tar.gz
 
     cd $PREFIX/starSED/mlt
-    tar zxvf mlt_SEDS.tar.gz
+    tar zxvf mlt_SEDs.tar.gz
     rm mlt_SEDS.tar.gz
 
     cd $PREFIX/starSED/old_mlt
