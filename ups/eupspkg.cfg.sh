@@ -44,7 +44,7 @@ install()
 
     cd $PREFIX/starSED/mlt
     tar zxvf mlt_SEDs.tar.gz
-    rm mlt_SEDS.tar.gz
+    rm mlt_SEDs.tar.gz
 
     cd $PREFIX/starSED/old_mlt
     tar zxvf old_mlt_SEDs.tar.gz
